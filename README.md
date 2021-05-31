@@ -45,3 +45,8 @@ Browser üzerinde tek seferlik izin alarmı çıkabilir. `Bir daha sorma` seçen
 
 ## Linux/MacOs İçin Ek Not:
 Eba ders uygulaması sadece windows için çalıştığı için linux/macOs için bir driver koymadık. bir yolunu bulduysanız [burdan](https://chromedriver.chromium.org/downloads) kendi işletim sisteminiz için olan bir driveri indirip `Driver` klasörüne atınız.
+
+
+İletişim için:
+Email: bilaltaner2004@gmail.com
+Discord: shynox#4601

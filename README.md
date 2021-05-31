@@ -1,4 +1,9 @@
 # Eba Otomatik Derse Girici
+
+NOT: 
+Bu uygulamayı geliştirme amacımız asla bir kişiyi etkilemek için değildir ve olmayacaktır. 
+Ne olursa olsun derslerinize girin arkadaşlar. Unutmayın, yarının geleceği sizlersiniz. <3 
+
 Öğrenciler için ebadaki derslere otomatik girmeye sağlayan bir python programı.
 
 Lütfen kullanmadan önce `selenium` modülünün python sürümünüze indirmeyi unutmayın: [PyPi](https://pypi.org/project/selenium/)
